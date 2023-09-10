@@ -68,6 +68,11 @@ body{
 
 }
 
+.click-text>strong{
+   
+    font-size: 1.3em;
+
+}
 .switch-button{
     cursor: pointer;
     padding: 10px;
