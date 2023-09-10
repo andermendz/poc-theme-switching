@@ -32,19 +32,19 @@
     padding: 0px;
     margin: 0px;
 }
-.content-container{
-  
+
+body{
+    
     display: flex;
-    height: 100vh;
+    height: 80vh;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     background-color: var(--content-cont-bg-color);
-
-  
 }
 
 .content-frame{
+    
     transition: 0.8s;
     display: flex;  
     gap:20px;
@@ -52,6 +52,7 @@
     justify-content: center;
     align-items: center;
     padding: 2em;
+    margin: 20px;
     border-radius: 30px;
     background-color: var(--content-frame-bg-color);
     border: var(--switch-button-border);
@@ -61,7 +62,7 @@
 .click-text{
    
     font-family: 'Roboto', sans-serif;
-    font-size: 1.5em;
+    font-size: 1.2em;
     font-weight: 100;
     color: var(--click-text-color) ;
 
@@ -70,7 +71,7 @@
 .switch-button{
     cursor: pointer;
     padding: 10px;
-    font-size: 1.5em;
+    font-size: 1.3em;
     color: var(--switch-button-text);
     background-color: var(--switch-button-bg-color);
     border: var(--switch-button-border);
