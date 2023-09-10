@@ -10,7 +10,7 @@
     --switch-button-bg-color: #f5f5f5;
     --switch-button-border: 1px solid #c0c0c0;
     --switch-button-text: #000000;
-    --theme-name: "dark";
+    --theme-name: "Dark Theme";
   }
 
 
@@ -22,7 +22,7 @@
       --switch-button-bg-color: #303030;  
       --switch-button-border: 1px solid #212529;
       --switch-button-text: #ffffff;
-      --theme-name: "light";
+      --theme-name: "Light Theme";
       
     }
   
